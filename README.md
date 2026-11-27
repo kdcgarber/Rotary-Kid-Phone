@@ -51,8 +51,8 @@ https://allanbinder.github.io/kid-phone/ <br>
 ```text
 .
 ├── 3d
-│   ├── retaryPhoneKid-phone-Bottom.stl
-│   ├── retaryPhoneKid-phone-SPI32Cover.stl
+│   ├── rotaryPhoneKid-phone-Bottom.stl
+│   ├── rotaryPhoneKid-phone-SPI32Cover.stl
 │   ├── rotary-kid-phone-buttonTray.stl
 │   ├── rotary-kid-phone.3mf
 │   ├── rotary-kid-phone.stl
@@ -63,8 +63,8 @@ https://allanbinder.github.io/kid-phone/ <br>
 
 | File | Description |
 |--------|-------------|
-| retaryPhoneKid-phone-Bottom.stl | Phone bottom housing |
-| retaryPhoneKid-phone-SPI32Cover.stl | ESP32-S3 cover |
+| rotaryPhoneKid-phone-Bottom.stl | Phone bottom housing |
+| rotaryPhoneKid-phone-SPI32Cover.stl | ESP32-S3 cover |
 | rotary-kid-phone-buttonTray.stl | Button holder tray |
 | rotary-kid-phone.stl | Phone top housing |
 | rotary-kid-phone.stl | All components arranged for printing |
