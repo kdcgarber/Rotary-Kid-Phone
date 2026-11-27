@@ -80,8 +80,8 @@ The included 3MF file contains all parts pre-positioned for printing.
 These are pictures of the Phone when assembled and running with the buttons illuminated
 
 | Printed Assembly |
-|--------|
-| <img src="images/Running.jpg" width="500" height="700"> |
+|--------|-------------|
+| <img src="images/Running.jpg" width="500" height="700"> | <img src="images/spin.gif" width="500" height="700"> |
 <br>
 
 ---
